@@ -161,6 +161,7 @@ body {
 }
 
 .add__btn {
+    width: 2%;
     font-size: 35px;
     background: none;
     border: none;
@@ -170,6 +171,9 @@ body {
     vertical-align: middle;
     line-height: 1.1;
     margin-left: 10px;
+}
+.add__btn-img{
+    width: 100%;
 }
 
 /*.add__btn:active { transform: translateY(2px); }*/
